@@ -31,10 +31,6 @@
 3. **Install dependencies**
     - Make sure you have the required Python packages (such as `scikit-learn`, `pandas`, `numpy`, `matplotlib`). You can install them with:
       ```bash
-      pip install -r requirements.txt
-      ```
-      or manually:
-      ```bash
       pip install scikit-learn pandas numpy matplotlib
       ```
 
@@ -44,7 +40,6 @@
 ## Project Structure
 
 - `*.ipynb` — Jupyter Notebook(s) containing code, explanations, and results.
-- `requirements.txt` — (If available) List of Python dependencies.
 
 ## License
 
